@@ -17,7 +17,7 @@ import java.util.Map;
  * </p>
  * 注意空字符串可被认为是有效字符串。
  * 
- * @author renguanghua
+ * @author ren
  *
  */
 public class ValidMark {
